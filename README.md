@@ -7,7 +7,7 @@ This document provides key learnings about Linux, a popular open-source operatin
 ## Section 1
 ### Write about the origins and history of Linux.
 
-- Linux is a collection of open-source operating systems originated from the Unix operating system. Linus Torvalds started working in 1991 and he inspired by the Unix operating system. Initially, he had a few minimal utilities and a simple command-line interface. 
+Linux is a collection of open-source operating systems originated from the Unix operating system. Linus Torvalds started working in 1991 and he inspired by the Unix operating system. Initially, he had a few minimal utilities and a simple command-line interface. 
 
 It has made the dominance of proprietary operating systems less strong and given people and organizations more control over their technological assets. 
 
